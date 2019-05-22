@@ -1,6 +1,6 @@
 # 热更新(HotCode)在Cordova平台的实践
 
-Github代码地址：
+Github代码地址：https://github.com/coffeelife/HotCodeTest.git
 
 搭建`Cordova`环境教程网址：[https://rensanning.iteye.com/blog/2163892]
 
@@ -657,6 +657,6 @@ public class ChcpService {
 
 热更新篇终。
 
-Github代码地址：
+Github代码地址：https://github.com/coffeelife/HotCodeTest.git
 
 

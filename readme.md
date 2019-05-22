@@ -6,6 +6,8 @@ Github代码地址：https://github.com/coffeelife/HotCodeTest.git
 
 ```
 //使用教程
+git clone https://github.com/coffeelife/HotCodeTest.git
+cd HotCodeTest
 npm install -g cordova
 npm install -g ripple-emulator
 cd HotCodeTest
